@@ -86,7 +86,7 @@ main hr {
 
 .phomtu img{
     background-color: none;
-    width: 10%;
+    width: 20%;
     justify-content: flex;
     gap:50px;
 }
